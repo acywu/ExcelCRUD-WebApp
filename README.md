@@ -13,4 +13,3 @@ Using AngularJS, Gulp, NPM, Angular Material Design Framework
 # Screenshots
 ![alt tag](https://raw.githubusercontent.com/alexcywu/ExcelCRUD-WebApp/master/assets/s0.png)
 ![alt tag](https://raw.githubusercontent.com/alexcywu/ExcelCRUD-WebApp/master/assets/s1.png)
-![alt tag](https://raw.githubusercontent.com/alexcywu/ExcelCRUD-WebApp/master/assets/s2.png)
